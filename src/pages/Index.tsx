@@ -38,7 +38,7 @@ const Index = () => {
   return (
     <div className="min-h-screen bg-gradient-to-br from-slate-900 via-slate-800 to-slate-900 flex items-center justify-center p-4">
       {/* Main Clock Container */}
-      <div className="w-full max-w-sm">
+      <div className="w-full max-w-2xl">
         {/* Clock Card */}
         <div className="bg-gradient-to-br from-slate-800 to-slate-900 rounded-3xl shadow-2xl p-8 border border-slate-700">
           {/* Header */}
