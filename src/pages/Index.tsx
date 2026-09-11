@@ -49,7 +49,7 @@ const Index = () => {
 
           {/* Time Display */}
           <div className="text-center mb-8">
-            <div className="bg-gradient-to-r from-blue-600 to-cyan-500 rounded-2xl p-8 shadow-lg">
+            <div className="bg-gradient-to-r from-blue-600 to-cyan-500 rounded-2xl p-8 shadow-lg w-full">
               <div className="font-mono text-7xl font-bold text-white tracking-wider drop-shadow-lg">
                 {time || '00:00:00'}
               </div>
